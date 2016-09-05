@@ -1,0 +1,22 @@
+{
+  "name": "sampler",
+  "version": "1.0.0",
+  "description": "Scan EDS OWServer, build samples, publish to MQTT",
+  "main": "sampler.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wxca/sampler.git"
+  },
+  "author": "Randy.Peters@Wx.Ca",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wxca/sampler/issues"
+  },
+  "homepage": "https://github.com/wxca/sampler#readme",
+  "dependencies": {
+    "mocha": "^3.0.2"
+  }
+}
