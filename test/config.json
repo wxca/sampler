@@ -1,0 +1,5 @@
+owservers.urls =
+  [
+    "http://192.168.1.31/gettag.csv?tag=PollCount&tag=DateTime&tag=LoopTime&tag=ROMId&tag=Temperature&tag=DewPoint&tag=Humidity&tag=BarometricPressureMb",
+    "http://192.168.1.31/gettag.csv?tag=PollCount&tag=DateTime&tag=LoopTime&tag=ROMId&tag=Vdd&tag=Vad&tag=Vsense&tag=Counter_A&tag=Counter_B"
+  ]
